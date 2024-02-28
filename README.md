@@ -1,0 +1,2 @@
+# SatinAlmaTalepNETCORE+REACTJS
+ 
