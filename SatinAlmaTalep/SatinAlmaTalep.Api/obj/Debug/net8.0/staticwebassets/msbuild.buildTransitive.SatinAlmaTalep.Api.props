@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SatinAlmaTalep.Api.props" />
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Core\bin\Debug\net8.0\SatinAlmaTalep.Core.deps.json
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Core\bin\Debug\net8.0\SatinAlmaTalep.Core.dll
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Core\bin\Debug\net8.0\SatinAlmaTalep.Core.pdb
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Core\obj\Debug\net8.0\SatinAlmaTalep.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Core\obj\Debug\net8.0\SatinAlmaTalep.Core.AssemblyInfoInputs.cache
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Core\obj\Debug\net8.0\SatinAlmaTalep.Core.AssemblyInfo.cs
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Core\obj\Debug\net8.0\SatinAlmaTalep.Core.csproj.CoreCompileInputs.cache
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Core\obj\Debug\net8.0\SatinAlmaTalep.Core.dll
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Core\obj\Debug\net8.0\refint\SatinAlmaTalep.Core.dll
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Core\obj\Debug\net8.0\SatinAlmaTalep.Core.pdb
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Core\obj\Debug\net8.0\ref\SatinAlmaTalep.Core.dll

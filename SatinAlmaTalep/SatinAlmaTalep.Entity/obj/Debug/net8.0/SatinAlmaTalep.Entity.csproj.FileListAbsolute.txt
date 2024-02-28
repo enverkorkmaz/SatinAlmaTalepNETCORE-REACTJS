@@ -1,0 +1,15 @@
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\bin\Debug\net8.0\SatinAlmaTalep.Entity.deps.json
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\bin\Debug\net8.0\SatinAlmaTalep.Entity.dll
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\bin\Debug\net8.0\SatinAlmaTalep.Entity.pdb
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\bin\Debug\net8.0\SatinAlmaTalep.Core.dll
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\bin\Debug\net8.0\SatinAlmaTalep.Core.pdb
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\obj\Debug\net8.0\SatinAlmaTalep.Entity.csproj.AssemblyReference.cache
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\obj\Debug\net8.0\SatinAlmaTalep.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\obj\Debug\net8.0\SatinAlmaTalep.Entity.AssemblyInfoInputs.cache
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\obj\Debug\net8.0\SatinAlmaTalep.Entity.AssemblyInfo.cs
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\obj\Debug\net8.0\SatinAlmaTalep.Entity.csproj.CoreCompileInputs.cache
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\obj\Debug\net8.0\SatinAlm.AC667073.Up2Date
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\obj\Debug\net8.0\SatinAlmaTalep.Entity.dll
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\obj\Debug\net8.0\refint\SatinAlmaTalep.Entity.dll
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\obj\Debug\net8.0\SatinAlmaTalep.Entity.pdb
+C:\Users\enver\Desktop\SatinAlmaTalep\SatinAlmaTalep\SatinAlmaTalep.Entity\obj\Debug\net8.0\ref\SatinAlmaTalep.Entity.dll
